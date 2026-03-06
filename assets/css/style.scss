@@ -163,6 +163,7 @@ pre {
 
 /* Tables */
 
+
 table {
   width:100%;
 }
@@ -171,7 +172,6 @@ table {
   border: 1px solid #ccc;
   margin-bottom: 32px;
   text-align: left;
-  vertical-align: center;
  }
 
 th {
@@ -179,12 +179,15 @@ th {
 	font-size: 18px;
 	font-weight: normal;
   padding: 10px;
+  background: #ccc;
  }
 
 td {
   padding: 10px;
-    vertical-align: center;
+	background: #ccc;
+  vertical-align: middle;
  }
+
 
 
 /* Wrapper */
