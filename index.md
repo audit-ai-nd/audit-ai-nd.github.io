@@ -28,7 +28,6 @@ ckormylo@nd.edu, john.lalor@nd.edu
 
 
 
-
 ## Working Group Members:
 
 |     |      |   |        |
