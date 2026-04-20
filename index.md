@@ -37,7 +37,8 @@ ckormylo@nd.edu, john.lalor@nd.edu
 |![Heng Xu](https://directory.mendoza.nd.edu/media/2188/xu-heng-2024.jpg?anchor=center&mode=crop&width=150&height=150&rnd=133977694970000000)| Heng Xu <br /> ITAO|![Ahmed Abbasi](https://directory.mendoza.nd.edu/media/1778/ahmed_abbasi-_headshot.jpg?center=0.37185929648241206,0.435&mode=crop&width=150&height=150&rnd=132495086850000000) | Ahmed Abbasi <br /> ITAO | 
 |![Yang Yang](https://directory.mendoza.nd.edu/media/1889/headphoto.bmp?anchor=center&mode=crop&width=150&height=150&rnd=133015875680000000) | Yang Yang <br /> ITAO | ![Walter Scheirer](https://engineering.nd.edu/wp-content/uploads/2020/06/Walter-Scheirer-hs-150x150.jpg) | Walter Scheirer <br /> Computer Science and Engineering |
 | ![Daniel Slate](https://law.nd.edu/assets/586731/150x150/danielslate.png) | Daniel Slate <br /> Law, AITAR Lab, HRAI Lab | ![Ting Hua](https://lucyinstitute.nd.edu/wp-content/uploads/2025/05/tinghua-headshot-150x150.jpg) | Ting Hua <br /> Lucy Institute |
-| ![Alison Cheng](https://psychology.nd.edu/assets/502979/150x150/ying_alison_cheng.jpg) | Alison Cheng <br /> Psychology | ![Andrey Kuehlkamp](https://crc.nd.edu/assets/315338/150x150/bj_3.5.19_andrey_kuehlkamp_3543.jpg)| Andrey Kuehlkamp <br /> Center for Research Computing
+| ![Alison Cheng](https://psychology.nd.edu/assets/502979/150x150/ying_alison_cheng.jpg) | Alison Cheng <br /> Psychology | ![Andrey Kuehlkamp](https://crc.nd.edu/assets/315338/150x150/bj_3.5.19_andrey_kuehlkamp_3543.jpg)| Andrey Kuehlkamp <br /> Center for Research Computing |
+| ![Emma Briant](https://lucyinstitute.nd.edu/wp-content/uploads/2025/04/emma-briant-nd-150x150.jpg) | Emma Briant <br /> Lucy Institute | | |
 
 
 
