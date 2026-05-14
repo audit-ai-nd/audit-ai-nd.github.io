@@ -45,3 +45,14 @@ ckormylo@nd.edu, john.lalor@nd.edu
 
 If you would like to join the working group, please email the working group leads.
 
+## Chatbot
+
+<!-- Add the widget -->
+<biel-button
+    project="jd6za6hkmg"
+    header-title="Working Group AI Chatbot"
+    button-position="bottom-right"
+    modal-position="sidebar-right"
+    button-style="dark">
+    Ask AI
+</biel-button>
