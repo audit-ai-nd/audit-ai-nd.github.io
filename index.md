@@ -45,7 +45,15 @@ ckormylo@nd.edu, john.lalor@nd.edu
 
 If you would like to join the working group, please email the working group leads.
 
+## Deliverables
+
+- [Syntehsis of Literature Review on AI Audits from Research and Industry](./literature_synthesis_AI_audits.pdf)
+- Working Group Final Report to the Data, AI, and Computing Executive Committee (coming soon!)
+
 ## Chatbot
+
+We've added an AI-powered chatbot to the website that has access to our literature review (and source documents) and our final report. 
+Try to ask it questions about AI Audits, our findings, or other AI-audit related topics (and let us know if you find anything interesting!).
 
 <!-- Add the widget -->
 <biel-button
