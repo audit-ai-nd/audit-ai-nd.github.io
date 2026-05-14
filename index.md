@@ -30,14 +30,41 @@ ckormylo@nd.edu, john.lalor@nd.edu
 
 ## Working Group Members:
 
-|     |      |   |        |
-|-----|------|-----|------|
-|![Cam Kormylo](https://directory.mendoza.nd.edu/media/1952/pr-90517-meet-the-firms-headshots-310_original.jpg?anchor=center&mode=crop&width=150&height=150&rnd=133155861420000000)| Cam Kormylo <br /> ITAO|![John Lalor](https://directory.mendoza.nd.edu/media/2164/john-lalor-2025-square.jpg?anchor=center&mode=crop&width=150&height=150&rnd=133827260480000000) | John P. Lalor <br /> ITAO | 
-|![Heng Xu](https://directory.mendoza.nd.edu/media/2188/xu-heng-2024.jpg?anchor=center&mode=crop&width=150&height=150&rnd=133977694970000000)| Heng Xu <br /> ITAO|![Ahmed Abbasi](https://directory.mendoza.nd.edu/media/1778/ahmed_abbasi-_headshot.jpg?center=0.37185929648241206,0.435&mode=crop&width=150&height=150&rnd=132495086850000000) | Ahmed Abbasi <br /> ITAO | 
-|![Yang Yang](https://directory.mendoza.nd.edu/media/1889/headphoto.bmp?anchor=center&mode=crop&width=150&height=150&rnd=133015875680000000) | Yang Yang <br /> ITAO | ![Walter Scheirer](https://engineering.nd.edu/wp-content/uploads/2020/06/Walter-Scheirer-hs-150x150.jpg) | Walter Scheirer <br /> Computer Science and Engineering |
-| ![Daniel Slate](https://law.nd.edu/assets/586731/150x150/danielslate.png) | Daniel Slate <br /> Law, AITAR Lab, HRAI Lab | ![Ting Hua](https://lucyinstitute.nd.edu/wp-content/uploads/2025/05/tinghua-headshot-150x150.jpg) | Ting Hua <br /> Lucy Institute |
-| ![Alison Cheng](https://psychology.nd.edu/assets/502979/150x150/ying_alison_cheng.jpg) | Alison Cheng <br /> Psychology | ![Andrey Kuehlkamp](https://crc.nd.edu/assets/315338/150x150/bj_3.5.19_andrey_kuehlkamp_3543.jpg)| Andrey Kuehlkamp <br /> Center for Research Computing |
-| ![Emma Briant](https://lucyinstitute.nd.edu/wp-content/uploads/2025/04/emma-briant-nd-150x150.jpg) | Emma Briant <br /> Lucy Institute | | |
+<table>
+  <tbody>
+    <tr>
+      <td><img src="https://directory.mendoza.nd.edu/media/1952/pr-90517-meet-the-firms-headshots-310_original.jpg?anchor=center&mode=crop&width=150&height=150&rnd=133155861420000000" alt="Cam Kormylo" />
+      <br />Cam Kormylo, ITAO</td>
+      <td><img src="https://directory.mendoza.nd.edu/media/2164/john-lalor-2025-square.jpg?anchor=center&mode=crop&width=150&height=150&rnd=133827260480000000" alt="John Lalor" />
+      <br />John P. Lalor, ITAO</td>
+      <td><img src="https://directory.mendoza.nd.edu/media/2188/xu-heng-2024.jpg?anchor=center&mode=crop&width=150&height=150&rnd=133977694970000000" alt="Heng Xu" />
+      <br />Heng Xu, ITAO</td>
+    </tr>
+    <tr>
+      <td><img src="https://directory.mendoza.nd.edu/media/1778/ahmed_abbasi-_headshot.jpg?center=0.37185929648241206,0.435&mode=crop&width=150&height=150&rnd=132495086850000000" alt="Ahmed Abbasi" />
+      <br />Ahmed Abbasi, ITAO</td>
+      <td><img src="https://directory.mendoza.nd.edu/media/1889/headphoto.bmp?anchor=center&mode=crop&width=150&height=150&rnd=133015875680000000" alt="Yang Yang" />
+      <br />Yang Yang, ITAO</td>
+      <td><img src="https://engineering.nd.edu/wp-content/uploads/2020/06/Walter-Scheirer-hs-150x150.jpg" alt="Walter Scheirer" />
+      <br />Walter Scheirer, Computer Science and Engineering</td>
+    </tr>
+    <tr>
+      <td><img src="https://law.nd.edu/assets/586731/150x150/danielslate.png" alt="Daniel Slate" />
+      <br />Daniel Slate, Law, AITAR Lab, HRAI Lab</td>
+      <td><img src="https://lucyinstitute.nd.edu/wp-content/uploads/2025/05/tinghua-headshot-150x150.jpg" alt="Ting Hua" />
+      <br />Ting Hua, Lucy Institute</td>
+      <td><img src="https://psychology.nd.edu/assets/502979/150x150/ying_alison_cheng.jpg" alt="Alison Cheng" />
+      <br />Alison Cheng, Psychology</td>
+    </tr>
+    <tr>
+      <td><img src="https://crc.nd.edu/assets/315338/150x150/bj_3.5.19_andrey_kuehlkamp_3543.jpg" alt="Andrey Kuehlkamp" />
+      <br />Andrey Kuehlkamp, Center for Research Computing</td>
+      <td><img src="https://lucyinstitute.nd.edu/wp-content/uploads/2025/04/emma-briant-nd-150x150.jpg" alt="Emma Briant" />
+      <br />Emma Briant, Lucy Institute</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 
 
